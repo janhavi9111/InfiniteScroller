@@ -1,0 +1,38 @@
+.App {
+  display: flex;
+  flex-direction: column;
+}
+
+.listcontainer {
+  display: flex;
+  padding-left: 50px;
+  padding: 10px 0px 10px 50px;
+}
+
+.listcontainer img {
+  border-radius: 25px;
+  height: 150px;
+  width: 200px;
+}
+
+.titleContaine {
+  padding: 20px;
+}
+
+.title {
+  width: 313px;
+}
+
+.date {
+  margin: 10px 0px;
+}
+
+.readMore {
+  text-decoration: none;
+  color: black;
+}
+
+.readMore:hover {
+  text-decoration: underline;
+  color: red;
+}
